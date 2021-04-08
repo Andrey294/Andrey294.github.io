@@ -230,6 +230,11 @@ a:hover{
 .education__text{
     line-height: 20px;
 }
+@media (max-width:510px) {
+    .education__text{
+        padding-right: 10px;
+    }
+}
 .skills{
     padding-bottom: 70px;
 }
